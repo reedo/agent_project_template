@@ -1,7 +1,5 @@
 # Development process
 
-Status: Draft
-
 These docs describe how each feature is delivered. "The owner" makes decisions for the project. "The agent" is
 the AI assistant that drafts the documents and carries out the work.
 
